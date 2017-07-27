@@ -1,0 +1,22 @@
+.jorah {
+  -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+
+/*#jorah{
+    -webkit-filter: invert(.8);
+    filter: invert(.8);
+}
+
+
+#jorah {
+    -webkit-filter: saturate(4);
+    filter: saturate(4);
+}
+
+#jorah {
+-webkit-filter: blur(5px);
+filter: blur(5px);
+}
+*/
